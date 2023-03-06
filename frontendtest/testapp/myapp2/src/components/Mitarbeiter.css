@@ -1,0 +1,22 @@
+.div-form {
+  height: 300px;
+  width: 400px;
+  background-color: red;
+  align-items: flex-start;
+  position: relative;
+}
+
+.label {
+  align-items: flex-start;
+  position: relative;
+  text-align: right;
+  font-size: 13px;
+  padding-top: 10px;
+  color: #7f7d7d;
+  margin: 0;
+}
+
+.btn-save {
+  margin-top: 15px;
+  padding-top: 15px;
+}
